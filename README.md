@@ -1,4 +1,4 @@
-# Weather-APP
+#Weather-APP
 https://michal-makowski.github.io/Weather-APP/
 
 #Weather API
